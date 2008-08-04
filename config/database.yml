@@ -1,0 +1,22 @@
+development:
+  adapter: mysql
+  database: project
+  username: root
+  password: root
+  host: localhost
+  encoding: utf8
+
+test:
+  adapter: mysql
+  database: depot_test
+  username: root
+  password:
+  host: localhost
+  encoding: utf8
+
+production:
+  adapter: mysql
+  database: depot_production
+  username: root
+  password: 
+  host: localhost

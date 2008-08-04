@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Untitled Document</title>
+		<link href="../css/project.css" type="text/css" rev="stylesheet" rel="stylesheet">
+	</head>
+	<body>
+		<div class="main">
+			<div class="main_bg" style="float:left;width:560px;">
+				<ul class="main_list_ul">
+					<% for ent in @ents %>
+					<li><a class="title" href="../detail/<%= ent.Id %>"><%= ent.EntName %></a>
+						<p><%= ent.Expenses%></p>
+					</li>
+					<% end %>
+				</ul>
+				<div class="main_bgg"></div>
+				<i class="mb_tl"></i>
+				<i class="mb_tr"></i>
+				<i class="mb_bl"></i>
+				<i class="mb_br"></i>
+			</div>
+			<div class="" style="float:right;width:190px">
+				<div class="left_bg">
+					<h3 class="left_bgh3"><span class="left_h3span">相关列表</span></h3>
+					<div class="left_bgg">
+						<br />ddddd<br />ddddd<br />ddddd<br />ddddd<br />ddddd<br />ddddd
+					</div>
+					<div class="left_bg_foot">
+						<div class="left_bf2"></div>
+					</div>
+				</div>
+			
+			</div>
+			<div class="clearing"></div>
+			<div class="pagination_custom"><%= will_paginate @ents, :prev_label => '上一页', :next_label => '下一页' %></div>
+		</div>
+	</body>
+</html>

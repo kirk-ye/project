@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title><%= @title %></title>
+		<link href="../css/project.css" type="text/css" rev="stylesheet" rel="stylesheet"></link>
+	</head>
+	<body>
+		<div class="header"></div>
+		<div class="main">
+			<%= yield :layout %>
+		</div>
+		<%= render(:partial => "shared/footer")%>
+	</body>
+</html>

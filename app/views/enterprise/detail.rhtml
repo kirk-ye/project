@@ -1,0 +1,67 @@
+<% @title = @ent.EntName + " 地址 电话"%>
+
+
+<div class="main_bg" style="float:left;width:520px;padding:20px 20px 0;">
+				<h1 title='<%= @ent.EntName  %>' class="detail_title"><%= @ent.EntName  %></h1>
+				<dl class="detail_dl">
+					<dt>企业名称：</dt><dd><%= @ent.EntName  %></dt>
+					<dt>所属行业：</dt><dd><%= @ent.EntName  %></dt>
+					<% if(@ent.EntType.empty?)%>
+					<dt>类型：</dt><dd><%= @ent.EntType  %></dt>
+					<% end %>
+					<% if(!@ent.Expenses.empty?)%>
+					<dt>经营范围：</dt><dd><%= @ent.Expenses  %></dt>
+					<% end %>
+					<% if(!@ent.Address.empty?)%>
+					<dt>企业地址：</dt><dd><%= @ent.Address  %></dt>
+					<% end %>
+					<% if(!@ent.ZipCode.empty?)%>
+					<dt>邮政编码：</dt><dd><%= @ent.ZipCode  %></dt>
+					<% end %>
+					<% if(!@ent.LinkTel.empty?)%>
+					<dt>联系电话：</dt><dd><%= @ent.LinkTel  %></dt>
+					<% end %>
+					<% if(!@ent.LinkFax.empty?)%>
+					<dt>传真号码：</dt><dd><%= @ent.LinkFax  %></dt>
+					<% end %>
+					<% if(!@ent.Email.empty?)%>
+					<dt>企业邮箱：</dt><dd><%= @ent.Email  %></dt>
+					<% end %>
+					<% if(!@ent.RegisterTime.empty?)%>
+					<dt>注册日期：</dt><dd><%= @ent.RegisterTime  %></dt>
+					<% end %>
+					<% if(!@ent.RegisteredFund.empty?)%>
+					<dt>注册资金：</dt><dd><%= @ent.RegisteredFund  %></dt>
+					<% end %>
+					<% if(!@ent.Turnover.empty?)%>
+					<dt>年营业额：</dt><dd><%= @ent.Turnover  %></dt>
+					<% end %>
+					<% if(!@ent.AllPoples.empty?)%>
+					<dt>企业人数：</dt><dd><%= @ent.AllPoples  %></dt>
+					<% end %>
+				</dl>
+				<div class="main_bgg"></div>
+				<i class="mb_tl"></i>
+				<i class="mb_tr"></i>
+				<i class="mb_bl"></i>
+				<i class="mb_br"></i>
+			</div>
+			<div class="" style="float:right;width:190px">
+				<% if @corr_ents != nil%>
+				<div class="left_bg" alt="相关企业">
+					<h3 class="left_bgh3"><span class="left_h3span">相关企业</span></h3>
+					<div class="left_bgg">
+						<ul class="leftlist_ul">
+							<% for corr in @corr_ents%>
+							<li><a href="detail/<%= corr.id%>"><%= corr.entname%></a></li>
+							<% end %>
+						</ul>
+						
+					</div>
+					<div class="left_bg_foot">
+						<div class="left_bf2"></div>
+					</div>
+				</div>
+				<% end%>
+			</div>
+			<div class="clearing"></div>

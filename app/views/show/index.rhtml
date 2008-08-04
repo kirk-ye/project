@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Untitled Document</title>
+        <link href="../css/project.css" type="text/css" rev="stylesheet" rel="stylesheet">
+    </head>
+    <body>
+        <div class="core_bg" style="width:500px;margin:auto;">
+            <i class="i_core_tl"></i>
+            <i class="i_core_tr"></i>
+            <i class="i_core_bl"></i>
+            <i class="i_core_br"></i>
+            <div class="search_index">
+                <select>
+                	<option value="0">所有行业</option>
+                	<% for category in @categories%>					
+                	<option value="<%= category.id %>"><%= category.CategoryName %></option>
+					<% end %>
+                </select>
+				<input type="text" /><input type="button" value="搜索" />
+            </div>
+            <ul class="category_index_ul">
+                <% for category in @categories %>
+                <li>
+                    <a href="<%= category.id %>"><%= category.CategoryName %></a>
+                </li>
+                <% end %>
+            </ul>
+			<div class="clearing"></div>
+        </div>
+		<div class="main">
+			<h2 class="new_add_h2">最新加入</h2>
+			<ul class="new_list_ul">
+				<% for new_ent in @new_ents%>
+				<li><a href="/detail/<%= new_ent.Id %>"><%= new_ent.EntName %></a></li>
+				<% end%>
+			</ul>
+			<div class="clearing"></div>
+		</div>
+		<%= render(:partial => "shared/footer")%>
+    </body>
+</html>
