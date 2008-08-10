@@ -17,6 +17,8 @@ img{border-width:0;}
 .core_bg .i_core_br{ background-position:-10px -15px; bottom:-1px; right:-1px;}
 
 .search_index{padding:10px 0 20px 0; text-align:center;}
+.title_h1{margin:50px auto 20px; color:#38b5c6; width:500px; text-align:center;}
+.category_index_ul{margin-left:18px;}
 .category_index_ul li{ float:left; width:96px;margin:2px 0;}
 .new_add_h2{margin:20px 0 0 120px;}
 .new_list_ul{margin:0px 130px 10px 130px;}

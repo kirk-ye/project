@@ -15,6 +15,7 @@
 					</li>
 					<% end %>
 				</ul>
+				<div class="pagination_custom"><%= will_paginate @ents, :prev_label => '上一页', :next_label => '下一页' %></div>
 				<div class="main_bgg"></div>
 				<i class="mb_tl"></i>
 				<i class="mb_tr"></i>
@@ -34,7 +35,7 @@
 			
 			</div>
 			<div class="clearing"></div>
-			<div class="pagination_custom"><%= will_paginate @ents, :prev_label => '上一页', :next_label => '下一页' %></div>
 		</div>
+		<%= render(:partial => "shared/footer")%>
 	</body>
 </html>
