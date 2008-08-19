@@ -15,18 +15,21 @@
             <i class="i_core_bl"></i>
             <i class="i_core_br"></i>
             <div class="search_index">
-                <select>
+            	<form action="/search" method="post">
+                <select name="cid">
                 	<option value="0">所有行业</option>
                 	<% for category in @categories%>					
                 	<option value="<%= category.id %>"><%= category.CategoryName %></option>
 					<% end %>
                 </select>
-				<input type="text" /><input type="button" value="搜索" />
-            </div>
+				<input type="text" name="search" />
+				<input type="submit" value="搜索" />
+            	</form>
+			</div>
             <ul class="category_index_ul">
                 <% for category in @categories %>
                 <li>
-                    <a href="<%= category.id %>"><%= category.CategoryName %></a>
+                    <a href="/list/<%= category.id %>"><%= category.CategoryName %></a>
                 </li>
                 <% end %>
             </ul>

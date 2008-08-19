@@ -1,0 +1,14 @@
+<div class="search_index">
+	<h1 class="head_h1"><a href="#">企业收录网</a></h1>
+	<div class="head_search">
+		<form action="/search/">
+	    <select name="cid">
+	    	<option value="0">所有行业</option>
+	    	<% for category in @categories%>					
+	    	<option value="<%= category.id %>" <% if category.id.to_s == params[:cid] %>  selected="selected" <% end %>><%= category.CategoryName %></option>
+			<% end %>
+	    </select>
+		<input type="text" name="search" value="<%= params[:search]%>" /><input type="submit" value="搜索" />
+		</form>
+	</div>
+</div>

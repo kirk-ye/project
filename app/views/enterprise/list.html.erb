@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title><%= @title %></title>
+		<link href="../css/project.css" type="text/css" rev="stylesheet" rel="stylesheet">
+	</head>
+	<body>
+		<div class="main">
+			<%= render(:partial=>"search",:object=>@categories) %>
+			<div class="list_category_div">
+				<ul>
+					<% for category in @categories %>
+	                <li<% if(category.id.to_s == @cid) %> class="current" <% end  %> >
+	                    <a href="/list/<%= category.id %>"><%= category.CategoryName %></a>
+	                </li>
+	                <% end %>
+				</ul>
+				<div class="clearing"></div>
+			</div><!--   style="float:left;width:560px;"  -->
+			<div class="main_bg">
+				<ul class="main_list_ul">
+					<% for ent in @ents %>
+					<li><a class="title" href="../detail/<%= ent.Id %>"><%= ent.EntName %></a>
+						<p><%= ent.Expenses%></p>
+					</li>
+					<% end %>
+					<% if @ents.size == 0 %>
+					<li>没有找到相关数据！</li>
+					<% end%>
+				</ul>
+				<div class="pagination_custom"><%= will_paginate @ents, :prev_label => '上一页', :next_label => '下一页' %></div>
+				<div class="main_bgg"></div>
+				<i class="mb_tl"></i>
+				<i class="mb_tr"></i>
+				<i class="mb_bl"></i>
+				<i class="mb_br"></i>
+			</div>
+
+			<div class="clearing"></div>
+		</div>
+		<%= render(:partial => "shared/footer")%>
+	</body>
+</html>

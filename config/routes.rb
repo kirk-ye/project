@@ -1,10 +1,12 @@
 ActionController::Routing::Routes.draw do |map|
   # The priority is based upon order of creation: first created -> highest priority.
   #enterprise
-  map.connect '/index/', :controller =>"show", :action =>"index"
+  map.connect '/index', :controller =>"show", :action =>"index"
   map.connect '/enterprise/:id', :controller =>"enterprise", :action =>"detail"
   map.connect '/detail/:id', :controller =>"enterprise", :action =>"detail"
   map.connect '/list/:cid', :controller =>"enterprise", :action =>"list"
+  map.connect '/search', :controller =>"enterprise", :action =>"search"
+  
   
   # Sample of regular route:
   #   map.connect 'products/:id', :controller => 'catalog', :action => 'view'
