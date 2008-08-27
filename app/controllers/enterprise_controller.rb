@@ -2,6 +2,8 @@ class EnterpriseController < ApplicationController
   #layout "index"
   protect_from_forgery :only => :index
   
+  IsSearchIndex = true #表示当前是查找ferret索引
+  
   def index
   end
   
@@ -23,10 +25,14 @@ class EnterpriseController < ApplicationController
   
   def search
     redirect_to("/list/"+params[:cid].to_s) if params[:cid] != "0" && (params[:search] == nil ||params[:search].empty?)
-    if (params[:cid] == nil ||params[:cid] == "0")
-      @ents = Enterprise.searchwordNoCategorId(params[:page]||1,params[:search])
+    if IsSearchIndex
+      searchindex
     else
-      @ents = Enterprise.searchword(params[:page]||1,params[:cid],params[:search])
+      if (params[:cid].nil? ||params[:cid] == "0")
+        @ents = Enterprise.searchwordNoCategorId(params[:page]||1,params[:search])
+      else
+        @ents = Enterprise.searchword(params[:page]||1,params[:cid],params[:search])
+      end
     end
     @categories = Category.find(:all,:conditions=>"IsShow = 1",:order => "'Order' desc")
     @title = "企业收录网 "
@@ -39,12 +45,20 @@ class EnterpriseController < ApplicationController
     @ents = Enterprise.search(params[:page]||1,params[:cid])
     @categories = Category.find(:all,:conditions=>"IsShow = 1",:order => "'Order' desc")
     @title = "企业收录网"
-
+  end
+  
+  # 查找ferret中的index
+  def searchindex
+    if (params[:cid].nil? ||params[:cid] == "0")
+      @ents = Enterprise.find_with_ferret(params[:search],:page =>(params[:page]||1),:per_page => 50)
+    else
+      @ents = Enterprise.find_with_ferret(params[:search],:conditions =>["CategoryId = ? ",params[:cid]],:page =>(params[:page]||1),:per_page => 50)
+    end
+    #puts @ents.total_hits.to_s + "dddddddd"
   end
   
   def correlation_ent(categoryid) # 相关企业
     @corr_ents = Enterprise.find_by_sql(["select * from ( SELECT id,entname FROM enterprises where enterprises.categoryid = ? limit 10,10000) as a   ORDER BY RAND()  limit 10,10",categoryid])
-    #
   end
   
 end

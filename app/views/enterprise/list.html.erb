@@ -21,7 +21,7 @@
 			<div class="main_bg">
 				<ul class="main_list_ul">
 					<% for ent in @ents %>
-					<li><a class="title" href="../detail/<%= ent.Id %>"><%= ent.EntName %></a>
+					<li><a class="title" href="/detail/<%= ent.Id %>"><%= ent.EntName %></a>
 						<p><%= ent.Expenses%></p>
 					</li>
 					<% end %>

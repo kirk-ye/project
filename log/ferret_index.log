@@ -1,0 +1,364 @@
+# Logfile created on Sun Aug 24 13:33:43 +0800 2008 by /
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:有限公司 EntName:有限公司 Expenses:有限公司
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:有限公司 EntName:有限公司 Expenses:有限公司
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:深圳 EntName:深圳 Expenses:深圳
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: EntName:深圳 Id:深圳
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+Enterprise bulk indexing 5 at 0
+bulk index model Enterprise : 0.00% complete : 0.11 secs to finish
+finishing bulk index...
+optimizing...
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Id:数据 EntName:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+rebuild index: [Enterprise(Id: integer, EntName: string, CategoryId: integer, CategoryLeft: string, Expenses: string, Trade: string, EntType: string, RegisterTime: string, Address: string, ZipCode: string, LinkTel: string, LinkFax: string, Email: string, RegisteredFund: string, Turnover: string, AllPoples: string, Keywords: string, Area: string, ShowFirst: integer, GoodNumber: integer, BadNumber: integer, FromId: integer, StatusId: integer, CreateTime: date, UpdateTime: date, FromIP: string)]
+reindexing model Enterprise
+reindex model Enterprise : 0.00% complete : 1.16 secs to finish
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+Enterprise bulk indexing 2 at 0
+bulk index model Enterprise : 0.00% complete : 0.04 secs to finish
+finishing bulk index...
+optimizing...
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+Enterprise bulk indexing 2 at 0
+bulk index model Enterprise : 0.00% complete : 0.05 secs to finish
+finishing bulk index...
+optimizing...
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+Enterprise bulk indexing 2 at 0
+bulk index model Enterprise : 0.00% complete : 0.05 secs to finish
+finishing bulk index...
+optimizing...
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+Enterprise bulk indexing 2 at 0
+bulk index model Enterprise : 0.00% complete : 0.05 secs to finish
+finishing bulk index...
+optimizing...
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+Enterprise bulk indexing 3 at 0
+bulk index model Enterprise : 0.00% complete : 0.08 secs to finish
+finishing bulk index...
+optimizing...
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+Enterprise bulk indexing 3 at 0
+bulk index model Enterprise : 0.00% complete : 0.13 secs to finish
+finishing bulk index...
+optimizing...
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+Enterprise bulk indexing 2 at 0
+bulk index model Enterprise : 0.00% complete : 0.10 secs to finish
+finishing bulk index...
+optimizing...
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+Enterprise bulk indexing 2 at 0
+bulk index model Enterprise : 0.00% complete : 0.10 secs to finish
+finishing bulk index...
+optimizing...
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:数据 EntName:数据 Id:数据 CategoryId:数据
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:"日 立"~1 EntName:"日 立"~1 Id:"日 立"~1 CategoryId:"日 立"~1
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:"日 立"~1 EntName:"日 立"~1 Id:"日 立"~1 CategoryId:"日 立"~1
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:"日 立"~1 EntName:"日 立"~1 Id:"日 立"~1 CategoryId:"日 立"~1
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:"日 立"~1 EntName:"日 立"~1 Id:"日 立"~1 CategoryId:"日 立"~1
+stored_fields: 
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+LocalIndex: ensure_index_exists at F:/Aptana_workspace/project/index/development/enterprise
+query: Expenses:"日 立"~1 EntName:"日 立"~1 Id:"日 立"~1 CategoryId:"日 立"~1
+stored_fields: 

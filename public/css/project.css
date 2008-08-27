@@ -33,7 +33,10 @@ img{border-width:0;}
 .main_list_ul .title{font-size:14px;margin-bottom:2px; color:#E63A3A;}
 .main_list_ul .title:hover{color:#ff8400;}
 .main_list_ul p{padding-left:10px;}
-.pagination_custom{ text-align:right;padding:10px 20px 0 0;}
+.pagination_custom{ text-align:right;padding:10px 50px 0 0;}
+
+.pagination_custom .current{ color:#ff8400;}
+.pagination_custom .disabled{ display:none;}
 
 .list_category_div{ border:solid #8FCFD6; background-color:#E7F7F7; border-width:1px 0;padding:6px 10px;margin:10px 0;}
 .list_category_div li{float:left;width:92px;margin:2px 0;}
